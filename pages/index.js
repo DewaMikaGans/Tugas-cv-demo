@@ -112,7 +112,7 @@ export default function Home() {
       <section className="skill" id="skill">
         <div className="inner">
           <div className="judul">
-            <h3><b>My <span> Skills</span></b></h3>
+            <h3><b>My skill and Resume</b></h3>
           </div>
 
           <div className="container">
@@ -146,33 +146,40 @@ export default function Home() {
             <div className="skill-box">
               <div className="skill-tittle">
                 <div className="img">
-                  <img src="/figma.png" className="skill-icon"></img>
+                  <img src="/sd.jpg" className="skill-icon"></img>
                 </div>
-                <h3>Figma</h3>
+                <h3>Sekolah Dasar</h3>
               </div>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, natus omnis? Ea, repellendus recusandae? Nihil rem esse accusamus quasi alias similique et nisi magnam cumque?</p>
+              <p>Saya saat sd bersekolah di SDN 12 Padang sambian selama 6 tahun, dari tahun 2012 sampai tahun 20018</p>
             </div>
             <div className="skill-box">
               <div className="skill-tittle">
                 <div className="img">
-                  <img src="/ps.png" className="skill-icon"></img>
+                  <img src="/smp.png" className="skill-icon"></img>
                 </div>
-                <h3>Photoshop</h3>
+                <h3>Sekolah Menengah Pertama</h3>
               </div>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, natus omnis? Ea, repellendus recusandae? Nihil rem esse accusamus quasi alias similique et nisi magnam cumque?</p>
+              <p>Saya saat smp bersekolah di SMP PGRI 5 Denpasar selama 3 tahun, dari tahun 2018 sampai tahun 2021</p>
             </div>
             <div className="skill-box">
               <div className="skill-tittle">
                 <div className="img">
-                  <img src="/ils.png" className="skill-icon"></img>
+                  <img src="/smk ti.png" className="skill-icon"></img>
                 </div>
-                <h3>Illustrator</h3>
+                <h3>Sekolah menengah atas</h3>
               </div>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, natus omnis? Ea, repellendus recusandae? Nihil rem esse accusamus quasi alias similique et nisi magnam cumque?</p>
+              <p>Saya saat smk bersekolah di SMK TI Bali Global Badung kurang lebih baru 1 tahun, dari tahun 2021 hingga saat ini</p>
             </div>
           </div>
         </div>
       </section>
+
+      <footer>
+        <div className="footer-ctn">
+          <h2><b>Contact</b></h2>
+          <p>Anda bisa menghuubungi saya melalui dewagedemika2006@gmail.com</p>
+        </div>
+      </footer>
 
       <a className="gotop" href="#">
         <b>Up</b>
